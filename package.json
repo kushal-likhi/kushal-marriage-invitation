@@ -1,0 +1,40 @@
+{
+  "name": "kushal-marriage-invitation",
+  "version": "1.0.2",
+  "description": "Kushal's Marriage Invitation",
+  "main": "./lib/invitation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Kushal",
+    "marriage",
+    "invitation",
+    "kushal",
+    "marriage",
+    "invitation"
+  ],
+  "author": "Kushal Likhi <kushal.likhi@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "kmi": "./bin/kmi.js",
+    "kushal-marraige-invitation": "./bin/kmi.js"
+  },
+  "dependencies": {
+    "asciimo": "^0.3.1",
+    "browser-sync": "^1.7.1",
+    "cli-color": "^0.3.2",
+    "colors": "^1.0.3",
+    "operator-overloading": "^0.4.0",
+    "terminal-menu": "^0.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kushal-likhi/kushal-marriage-invitation"
+  },
+  "bugs": {
+    "url": "https://github.com/kushal-likhi/kushal-marriage-invitation/issues"
+  },
+  "homepage": "https://github.com/kushal-likhi/kushal-marriage-invitation"
+}
