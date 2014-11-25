@@ -1,6 +1,6 @@
 {
   "name": "kushal-marriage-invitation",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Kushal's Marriage Invitation",
   "main": "./lib/invitation.js",
   "scripts": {
