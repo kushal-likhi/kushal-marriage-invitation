@@ -18,7 +18,7 @@
   "license": "ISC",
   "bin": {
     "kmi": "./bin/kmi.js",
-    "kushal-marraige-invitation": "./bin/kmi.js"
+    "kushal-marriage-invitation": "./bin/kmi.js"
   },
   "dependencies": {
     "asciimo": "^0.3.1",
